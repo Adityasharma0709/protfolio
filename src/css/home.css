@@ -1,0 +1,8 @@
+.canvas {
+  height: 100dvh;
+}
+.Filmsheet {
+  height: 100dvh;
+  background-color: rgba(rgba(7, 7, 7, 0.493), alpha);
+  z-index: 2;
+}

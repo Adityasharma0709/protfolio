@@ -1,10 +1,9 @@
 import React from 'react';
-
+import Navigation from '../components/Navigation';
 function About() {
   return (
     <div>
-      <h2>About Me</h2>
-      <p>This page contains information about me.</p>
+       <Navigation />
     </div>
   );
 }

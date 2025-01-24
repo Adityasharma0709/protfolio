@@ -10,17 +10,11 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <header>
-          <h1>My Portfolio</h1>
-          <Navigation />
-        </header>
-        <main>
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/projects" element={<Projects />} />
           </Routes>
-        </main>
       </div>
     </Router>
   );

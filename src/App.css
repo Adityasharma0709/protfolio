@@ -6,21 +6,7 @@ body {
 }
 
 header {
-  background-color: #282c34;
+  background-color: transparent;
   padding: 20px;
   color: white;
-}
-
-nav ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-nav ul li {
-  display: inline;
-  margin-right: 10px;
-}
-
-main {
-  padding: 20px;
 }
